@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Vorpet AKA Voros Peter im 20 years old Hungarian.
+- 👀 I’m interested in web development and games
+- 🌱 I’m currently learning javascript :)
+- 💞️ I’m looking to collaborate on web sites in the future.
+- 📫 How to reach me? Easy vorospeter477@gmail.com
